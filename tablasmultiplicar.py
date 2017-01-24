@@ -1,3 +1,5 @@
+# Miguel Ángel Lozano Montero
+
 # Programa que imprime las tablas de multiplicar.
 
 for fila in range (1,11):
